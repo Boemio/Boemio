@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/690d5d5e9466c85db40e6155d1b3df2d/7649b699ac961a3f-78/s250x250_c1/d874cb1fd12b7c9fb9d9ae224364851494dd011a.jpg" width="200"/>
+  <img src="https://media.tenor.com/OiEJht3qg-EAAAAi/takodachi-ina.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vinícius-de-moraes-b74a40234/">
