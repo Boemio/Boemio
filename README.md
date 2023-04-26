@@ -1,10 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/OiEJht3qg-EAAAAi/takodachi-ina.gif" width="200"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://twitter.com/takoemio">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Boemio&style=flat-square&color=blue" alt=""/>
